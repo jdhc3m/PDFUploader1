@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">PDF Uploader</string>
+    <string name="title_activity_pdf_list">Pdf List</string>
+
+
+    <string name="something_wrong_happened">Something wrong happened</string>
+    <string name="try_again">Try Again</string>
+    <string name="uploading">Uploading %s</string>
+    <string name="storage_error">Sorry, the file is not on internal storage!</string>
+    <string name="upload_success">Pdf upload success</string>
+    <string name="select_pdf">Select Pdf</string>
+    <string name="permission_granted">Permission granted now you can read the storage</string>
+    <string name="permission_denied">Oops you just denied the permission</string>
+    <string name="pdf_upload">PDF Upload:</string>
+    <string name="pdf_name">Insert PDF name (alias)</string>
+    <string name="select">Select</string>
+    <string name="upload">Upload</string>
+    <string name="pdf_list">Pdf List</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="label_name">Name</string>
+    <string name="label_address">Address</string>
+    <string name="label_dob">DOB e.g. DD/MM/YYYY</string>
+    <string name="label_id">ID</string>
+    <string name="label_emergency_contact_name">Emergency Contact Name</string>
+    <string name="label_emergency_contact_number">Emergency Contact Number</string>
+    <string name="label_emergency_contact">Emergency Contact</string>
+    <string name="label_personal_information">Personal Information</string>
+    <string name="label_Mobile">Mobile</string>
+    <string name="category_gender">Gender</string>
 </resources>
